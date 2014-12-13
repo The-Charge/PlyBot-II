@@ -7,10 +7,10 @@ class Robot: public SampleRobot
 {
 
     // Channels for the wheels
-    const static int frontLeftChannel	= 2;
-    const static int rearLeftChannel	= 3;
-    const static int frontRightChannel	= 1;
-    const static int rearRightChannel	= 0;
+    const static int frontLeftChannel	= 0;
+    const static int rearLeftChannel	= 1;
+    const static int frontRightChannel	= 2;
+    const static int rearRightChannel	= 3;
 
     const static int joystickChannel	= 0;
 
