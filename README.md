@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/the-charge/plybot-ii.png?label=ready&title=Ready)](https://waffle.io/the-charge/plybot-ii)
 PlyBot-II
 =========
 
